@@ -11,7 +11,7 @@ Use at your own risk, it has been compiled exactly as the Github repo says
 
 ## Before running it
 
-**1.** Make sure you are running v0.12.2.1
+**1.** Make sure you are running v0.12.1.2
 
 **2.** Close your wallet
 
@@ -21,7 +21,7 @@ Use at your own risk, it has been compiled exactly as the Github repo says
 rpcuser=someuser
 rpcpassword=somepass
 server=1
-rpcport=9918
+rpcport=12454
 rpcconnect=127.0.0.1
 
 Try to make rcpuser and rpcpassword hard to guess, you won't need to remember/use them for anything else, so feel free to smash the keyboard
